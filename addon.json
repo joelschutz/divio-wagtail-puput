@@ -4,6 +4,7 @@
         "puput",
         "wagtail.contrib.sitemaps",
         "wagtail.contrib.routable_page",
-        "django_social_share"
+        "django_social_share",
+        "colorful"
     ]
 }
