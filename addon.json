@@ -1,10 +1,4 @@
 {
     "package-name": "divio-wagtail-puput",
-    "installed-apps": [
-        "puput",
-        "wagtail.contrib.sitemaps",
-        "wagtail.contrib.routable_page",
-        "django_social_share",
-        "colorful"
-    ]
+    "installed-apps": []
 }
